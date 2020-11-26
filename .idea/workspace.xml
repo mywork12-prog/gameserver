@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf646062-3a68-4c12-a755-b3279f1c1c4e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kPmoII0VprvZgbmuKT7sL8WIzy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="js" type="NodeJSConfigurationType" singleton="false" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf646062-3a68-4c12-a755-b3279f1c1c4e" name="Default Changelist" comment="" />
+      <created>1605610773426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605610773426</updated>
+      <workItem from="1605610774572" duration="1951000" />
+      <workItem from="1605615112499" duration="8000" />
+      <workItem from="1605672186321" duration="2635000" />
+      <workItem from="1605847297787" duration="4395000" />
+      <workItem from="1605861279036" duration="10894000" />
+      <workItem from="1605931886613" duration="9791000" />
+      <workItem from="1605947629656" duration="1242000" />
+      <workItem from="1605948892176" duration="11338000" />
+      <workItem from="1606104485591" duration="1060000" />
+      <workItem from="1606199382067" duration="3941000" />
+      <workItem from="1606206645000" duration="3372000" />
+      <workItem from="1606276521264" duration="7247000" />
+      <workItem from="1606293741057" duration="602000" />
+      <workItem from="1606362130688" duration="6457000" />
+      <workItem from="1606379418529" duration="7370000" />
+      <workItem from="1606390530574" duration="26000" />
+      <workItem from="1606390809762" duration="591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605610814590">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="418" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1001@0.27.1920.1001" timestamp="1605610814590" />
+    <state x="743" y="235" width="424" height="591" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1605610810862">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="743" y="235" width="424" height="591" key="#com.intellij.ide.macro.MacrosDialog/0.27.1920.1001@0.27.1920.1001" timestamp="1605610810862" />
+    <state x="743" y="285" width="424" height="491" key="FileChooserDialogImpl" timestamp="1606379505357">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="743" y="285" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1001@0.27.1920.1001" timestamp="1606379505357" />
+    <state width="1897" height="258" key="GridCell.Tab.0.bottom" timestamp="1605611096609">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state width="1897" height="258" key="GridCell.Tab.0.bottom/0.27.1920.1001@0.27.1920.1001" timestamp="1605611096609" />
+    <state width="1897" height="258" key="GridCell.Tab.0.center" timestamp="1605611096608">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state width="1897" height="258" key="GridCell.Tab.0.center/0.27.1920.1001@0.27.1920.1001" timestamp="1605611096608" />
+    <state width="1897" height="258" key="GridCell.Tab.0.left" timestamp="1605611096608">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state width="1897" height="258" key="GridCell.Tab.0.left/0.27.1920.1001@0.27.1920.1001" timestamp="1605611096608" />
+    <state width="1897" height="258" key="GridCell.Tab.0.right" timestamp="1605611096608">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state width="1897" height="258" key="GridCell.Tab.0.right/0.27.1920.1001@0.27.1920.1001" timestamp="1605611096608" />
+    <state x="624" y="239" key="run.anything.popup" timestamp="1605869796082">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="624" y="239" key="run.anything.popup/0.27.1920.1001@0.27.1920.1001" timestamp="1605869796082" />
+    <state x="623" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1605870684394">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="623" y="246" width="672" height="678" key="search.everywhere.popup/0.27.1920.1001@0.27.1920.1001" timestamp="1605870684394" />
+  </component>
+</project>
